@@ -3,7 +3,7 @@ Language Learning App
 
 This app displays lists of vocabulary words for the user to learn the language.
 
-App Link: https://www.youtube.com/edit?o=U&video_id=2qZLKXFAbjU
+App Link: https://www.youtube.com/watch?v=2qZLKXFAbjU
 
 Pre-requisites
 --------------
